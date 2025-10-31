@@ -1,16 +1,14 @@
-## Hi there 👋
+### 👋 Hi, I'm Sana
 
-<!--
-**Sana-zen/Sana-zen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 BCA student at Amity University Online  
+- 💻 Frontend learner focused on HTML, CSS, JS and building strong fundamentals  
+- 🚀 Currently learning Java + DSA to strengthen problem-solving   
+- 🎯 Goal: Become a skilled Frontend Developer with strong real-world projects
 
-Here are some ideas to get you started:
+### GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Sana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sana-zen&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sana-zen&layout=compact&theme=radical)
+
+
